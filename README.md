@@ -54,7 +54,7 @@ amazon-prime-video-dashboard/
 
 ### Dashboard Overview
 
-![Amazon Prime Video Dashboard](screenshots/dashboard_overview.png)
+![Amazon Prime Video Dashboard](screenshots/Amazon prime Dashboard.png)
 
 
 ## 💡 Key Business Questions
