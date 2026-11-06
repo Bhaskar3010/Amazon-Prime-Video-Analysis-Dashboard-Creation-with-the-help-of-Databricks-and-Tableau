@@ -1,0 +1,55 @@
+**Amazon Prime Video Dashboard | Tableau 🎬📊**
+
+🎥 In this post, I'm sharing a walkthrough of my Amazon Prime Video Dashboard built using Tableau, showcasing content distribution, movies vs. TV shows, genre analysis, ratings, directors, and geographic distribution of content across countries.
+
+Understanding content distribution and audience preferences is essential for making data-driven decisions in the entertainment industry. By analyzing titles, genres, ratings, directors, release years, and country-wise content availability, we can gain valuable insights into the Amazon Prime Video content library.
+
+I developed this Amazon Prime Video Dashboard using Tableau to explore content trends, understand the distribution of movies and TV shows, and identify patterns across different content categories.
+
+📊 **Key areas covered:**
+
+🔹 Total Titles Available on Amazon Prime Video  
+🔹 Total Movies & TV Shows  
+🔹 Number of Countries Represented  
+🔹 Movies vs. TV Shows – Distribution Analysis  
+🔹 Top 10 Genres by Content  
+🔹 Top 10 Countries by Content Availability  
+🔹 Top 10 Directors by Content  
+🔹 Geographic Distribution of Content Across Countries  
+🔹 Content Ratings Analysis  
+🔹 Release Year & Content Trends  
+🔹 Genre-Based Content Exploration  
+🔹 Interactive Filters for Type, Rating, Genre & Release Year  
+
+💡 **What this dashboard helps answer:**
+
+➡️ How many titles are available on Amazon Prime Video?  
+➡️ What is the distribution of Movies vs. TV Shows?  
+➡️ Which genres have the highest content representation?  
+➡️ Which countries contribute the most titles to the platform?  
+➡️ Which directors have the most titles in the content library?  
+➡️ How is content distributed across different ratings?  
+➡️ How has content availability evolved over different release years?  
+➡️ What patterns can we identify in Amazon Prime Video's global content library?
+
+🎯 **The objective:**
+
+To transform raw streaming platform data into meaningful visual insights, helping understand content distribution, explore entertainment trends, identify popular genres, and analyze the global presence of Amazon Prime Video's content library.
+
+🛠️ **Tools & Skills Used:**
+• Tableau  
+• Data Cleaning & Transformation  
+• Data Visualization  
+• KPI Development  
+• Geographic Mapping  
+• Interactive Dashboard Design  
+• Filters & Calculated Fields  
+• Content Analysis  
+• Exploratory Data Analysis (EDA)  
+• Business Intelligence  
+
+For me, data visualization is more than just creating charts. It's about transforming raw data into meaningful stories, uncovering hidden patterns, and making complex information easier to understand through interactive dashboards. 📈
+
+💬 Watch the dashboard walkthrough and share your feedback! I'd love to hear your suggestions and connect with professionals working in Data Analytics, Data Visualization, and Business Intelligence.
+
+#Tableau #TableauDashboard #AmazonPrimeVideo #AmazonPrimeDashboard #DataAnalytics #DataAnalyst #DataVisualization #BusinessIntelligence #EDA #DashboardDesign #TableauPublic #Movies #TVShows #StreamingAnalytics #DataDrivenInsights
