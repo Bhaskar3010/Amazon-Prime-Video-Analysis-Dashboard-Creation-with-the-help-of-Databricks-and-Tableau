@@ -54,7 +54,7 @@ amazon-prime-video-dashboard/
 
 ### Dashboard Overview
 
-![Amazon Prime Video Dashboard](screenshots/Amazon prime Dashboard.png)
+<img width="1366" height="768" alt="final dashboard" src="https://github.com/Bhaskar3010/Amazon-Prime-Video-Analysis-Dashboard-Creation-with-the-help-of-Databricks-and-Tableau/blob/be3f3ba9ea32cd800db5ab3c7f92dc84051782cf/screenshots/Amazon%20prime%20Dashboard.png" />
 
 
 ## 💡 Key Business Questions
